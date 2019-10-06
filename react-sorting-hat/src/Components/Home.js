@@ -1,9 +1,18 @@
 import React from 'react';
+import '../App.css';
 
-const Footer = () => (
-    <footer className="footer">
-      <p>Made by Ki ?</p>
-    </footer>
-  );
+import Footer from "./Footer.js";
+import Header from "./Header.js";
+import PoudlardLogo from '../DesignElements/LogoPoudlard.png';
+import LambdaLogo from '../DesignElements/lambdaSchoolLogo.png';
 
-  export default Footer
+function Home () {
+    return (
+      <div className="App">
+        
+        <Footer/>
+      </div>
+    );
+  }
+
+export default Home

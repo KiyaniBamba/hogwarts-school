@@ -82,6 +82,7 @@ body {
   display: inline-block;
   vertical-align: middle;
   cursor: pointer;
+  text-align: left;
 }
 
 .radioCustomLabel {

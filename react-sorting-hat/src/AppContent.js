@@ -11,7 +11,7 @@ import Question from './Components/Questions.js';
 import Quiz from './Components/Quiz.js';
 import Result from './Components/Result.js';
 
-class App extends Component {
+class AppContent extends Component {
   constructor(props) {
     super(props);
 
@@ -136,4 +136,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default AppContent;
