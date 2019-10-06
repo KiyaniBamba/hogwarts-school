@@ -1,106 +1,106 @@
 const quizQuestions = [
     {
-        question: "What franchise would you rather play a game from?",
+        question: "How do you prepare each lecture?",
         answers: [
             {
                 type: "Gryffindor",
-                content: "Halo"
+                content: "I am a last-minute type of student"
             },
             {
                 type: "Hufflepuff",
-                content: "Halo"
+                content: "I study with one of my teammates and we explain to each other the difficult concepts"
             },
             {
                 type: "Ravenclaw",
-                content: "Pokemon"
+                content: "I go through the Training Kit during the week-end"
             },
             {
                 type: "Slytherin",
-                content: "Uncharted"
+                content: "I do not prepare. I trust myself to understand everything during the lecture"
             }
         ]
     },
     {
-        question: "Which console would you prefer to play with friends?",
+        question: "How do you usually feel during the sprint challenge?",
         answers: [
             {
                 type: "Gryffindor",
-                content: "Halo"
+                content: "Not ready, but I am confident that I can do it"
             },
             {
                 type: "Hufflepuff",
-                content: "Halo"
+                content: "One word: Stress. Actually two words: Stress and confused"
             },
             {
                 type: "Ravenclaw",
-                content: "Pokemon"
+                content: "I study a lot. I am always ready"
             },
             {
                 type: "Slytherin",
-                content: "Uncharted"
+                content: "Google is my best friend. There is no way that I don't find what I need to succeed"
             }
         ]
     },
     {
-        question: "Which of these racing franchises would you prefer to play a game from?",
+        question: "Which of these sentence represent the best your experience at Lambda?",
         answers: [
             {
                 type: "Gryffindor",
-                content: "Halo"
+                content: "I am not sure what's happening, but I love it"
             },
             {
                 type: "Hufflepuff",
-                content: "Halo"
+                content: "I have met so many impressive people. They're the best part of Lambda"
             },
             {
                 type: "Ravenclaw",
-                content: "Pokemon"
+                content: "I don't have a social life anymore. I think, eat and dream coding"
             },
             {
                 type: "Slytherin",
-                content: "Uncharted"
+                content: "I joined Lambda to get a +$80k salary, nothing less. I keep my eyes on the goal"
             }
         ]
     },
     {
-        question: "Which of these games do you think is best?",
+        question: "Which part of the full track web curriculum interest you the most?",
         answers: [
             {
                 type: "Gryffindor",
-                content: "Halo"
+                content: "Web application I and II"
             },
             {
                 type: "Hufflepuff",
-                content: "Halo"
+                content: "Web fundamentals"
             },
             {
                 type: "Ravenclaw",
-                content: "Pokemon"
+                content: "Computer science"
             },
             {
                 type: "Slytherin",
-                content: "Uncharted"
+                content: "Career Development"
             }
         ]
     },
     {
-        question: "What console would you prefer to own?",
+        question: "Do you participate in the threat during class?",
         answers: [
             {
                 type: "Gryffindor",
-                content: "Halo"
+                content: "I am not gonna lie, I sometime sleep during the lecture"
             },
             {
                 type: "Hufflepuff",
-                content: "Halo"
+                content: "Sometime yes. I like to reply to others students questions when I can help"
             },
             {
                 type: "Ravenclaw",
-                content: "Pokemon"
+                content: "Yes, the instructor and I are most of the time the only one to understand what's going on"
             },
             {
                 type: "Slytherin",
-                content: "Uncharted"
+                content: "Lmao, why would I do that?"
             }
         ]
     }
