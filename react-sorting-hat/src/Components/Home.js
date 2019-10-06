@@ -1,16 +1,17 @@
 import React from 'react';
 import '../App.css';
 
-import Footer from "./Footer.js";
-import Header from "./Header.js";
-import PoudlardLogo from '../DesignElements/LogoPoudlard.png';
-import LambdaLogo from '../DesignElements/lambdaSchoolLogo.png';
+import HomeBackground from '../DesignElements/Train.jpg';
+
+
+
 
 function Home () {
     return (
-      <div className="App">
-        
-        <Footer/>
+      
+      <div className="imgBackground">
+        <img src={HomeBackground} alt="logo" />
+      
       </div>
     );
   }
